@@ -1,3 +1,3 @@
 # Data-Analysis
 
-first trail to add repostory from my hard drive
+This Folder contains Exploration Data Analysis Projects
